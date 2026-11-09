@@ -28,6 +28,10 @@ Requires Windows 10/11 and [PowerToys](https://github.com/microsoft/PowerToys) 0
 
 Then right-click the Dock, choose **Edit**, add the **Custom Dock Text** band, and click it to set your text.
 
+<p align="center">
+  <img src="docs/screenshots/edit.png" width="640" alt="The Edit Dock text page in Command Palette, with a text box and a Save button">
+</p>
+
 <details>
 <summary>Install from GitHub instead</summary>
 
