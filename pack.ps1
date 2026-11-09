@@ -21,7 +21,7 @@ param(
   # Microsoft Store build: uses the identity Partner Center assigned, leaves the package unsigned
   # (the Store signs it), builds both architectures and bundles them for upload.
   [switch]$Store,
-  [string]$StoreIdentityName = '',
+  [string]$StoreIdentityName = 'ArihantTripathy.CustomDockText',
   [string]$StorePublisher = 'CN=72BAF5FF-24DB-44E5-91AB-EF577484B99F',
   [string]$StorePublisherDisplayName = 'Arihant Tripathy'
 )
